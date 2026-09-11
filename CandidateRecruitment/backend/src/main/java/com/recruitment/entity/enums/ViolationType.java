@@ -1,0 +1,18 @@
+package com.recruitment.entity.enums;
+
+public enum ViolationType {
+    TAB_SWITCH,
+    WINDOW_BLUR,
+    FULLSCREEN_EXIT,
+    COPY_ATTEMPT,
+    PASTE_ATTEMPT,
+    RIGHT_CLICK,
+    DEVTOOLS_OPEN,
+    FACE_NOT_DETECTED,
+    FACE_NOT_CLEAR,
+    MULTIPLE_FACES,
+    CAMERA_UNAVAILABLE,
+    VOICE_DETECTED,
+    MIC_UNAVAILABLE,
+    MULTIPLE_VIOLATIONS
+}
